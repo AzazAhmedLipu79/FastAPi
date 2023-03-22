@@ -1,6 +1,6 @@
 ### 🔗Watch : https://www.youtube.com/watch?v=0sOvCWFmrtA
 
-### Section 1: Introduction
+### Section 1: Introduction ✅
 
 1. Course Project
 
@@ -10,7 +10,7 @@
 
 
 
-### Section 2: Setup & installation
+### Section 2: Setup & installation ✅
 
 4. Mac Python Installation 11f22
 
@@ -28,7 +28,7 @@
 
 
 
-### Section 3: FastAPI
+### Section 3: FastAPI ✅
 
 11. Install dependencies w/ pip 34:17
 
@@ -68,7 +68,7 @@
 
 
 
-### Section 4: Databases
+### Section 4: Databases ✅
 
 29. Database Intro 2:24:11
 
@@ -102,7 +102,7 @@
 
 
 
-### Section 5: Python + Raw SQL
+### Section 5: Python + Raw SQL ✅
 
 44. Setup App Database 3:53:48
 
@@ -140,7 +140,7 @@
 
 
 
-### Section 7: Pydantic Models
+### Section 7: Pydantic Models ✅
 
 59. Pydantic vs ORM Models 5:28:21
 
@@ -150,7 +150,7 @@
 
 
 
-### Section 8: Authentication & Users
+### Section 8: Authentication & Users ✅
 
 62. Creating Users Table 5:50:08
 
@@ -190,7 +190,7 @@
 
 
 
-### Section 9: Relationships
+### Section 9: Relationships ✅
 
 80. SQL Relationship Basics 7:50:33
 
@@ -216,17 +216,17 @@
 
 
 
-### Section 10: Vote/Like System
+### Section 10: Vote/Like System 🟡
 
-91. Vote/Like Theory 9:21:20
+91. Vote/Like Theory 9:21:20 ✅
 
-92. Votes Table 9:26:36
+92. Votes Table 9:26:36 ✅
 
-93. Votes Sqlalchemy 9:31:33
+93. Votes Sqlalchemy 9:31:33 ✅
 
-94. Votes Route 9:34:11
+94. Votes Route 9:34:11 ✅
 
-95. SQL Joins 9:52:31
+95. SQL Joins 9:52:31 ✅
 
 96. Joins in SqlAlchemy 10:15:26
 
@@ -234,7 +234,7 @@
 
 
 
-### Section 11: Database Migration w/ Alembic
+### Section 11: Database Migration w/ Alembic 🟡
 
 98. What is a database migration tool 10:30:18
 
@@ -250,9 +250,9 @@
 
 
 
-### Section 12: Pre Deployment Checklist
+### Section 12: Pre Deployment Checklist 🟡
 
-104. What is CORS????? 11:14:28
+104. What is CORS????? 11:14:28 ✅
 
 105. Git PreReqs 11:23:38
 
